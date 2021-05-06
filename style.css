@@ -1,0 +1,99 @@
+#title{
+    background-color: #fb3640;
+    color: white;
+}
+
+.name{
+    font-size: 30px;
+    color: white;
+}
+.nav-item{
+    padding: 2;
+    font-size: 1.5rem;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+}
+.me{
+    height: 80%;
+    width: 60%;
+    border-radius: 50%;
+}
+
+p{
+    font-family: Helvetica;
+    text-align: justify;
+    font-size: 20px;
+}
+
+#feature{
+    padding: 2rem o;
+}
+
+.feature-icon{
+    padding-bottom: 1.3rem;
+}
+
+#card-demo{
+    background-color: #ffdf6b;
+}
+
+.card{
+    background-color: #ffdf6b;
+}
+
+.house{
+    height: 80px;
+    width: 80px;
+} 
+
+.books{
+    height: 80px;
+    width: 80px;
+} 
+
+.globe{
+    height: 80px;
+    width: 80px;
+} 
+
+#footer{
+    background-color: #fb3640;
+}
+
+.facebook{
+    height: 70px;
+    width: 70px;
+    margin: 10px;
+}
+
+.instagram{
+    height: 70px;
+    width: 70px;
+    margin: 10px;
+}
+
+.contact{
+    height: 70px;
+    width: 70px;
+    margin: 10px;
+}
+
+.con{
+    font-size: 60px;
+    text-align: center;
+}
+
+.btn{
+  width: 250px;
+  background: #02475e;
+  height: 50%;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 5px;
+  margin: 0 auto;
+  color: rgb(219, 219, 219);
+  text-transform: uppercase;
+  cursor: pointer;
+}
